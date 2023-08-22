@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="1">
+      <personal_information>
+        <first_name>John</first_name>
+        <last_name>Doe</last_name>
+        <date_of_birth>1980-01-01</date_of_birth>
+        <gender>Male</gender>
+      </personal_information>
+      <employment_information>
+        <position>Software Engineer</position>
+        <salary>100000</salary>
+      </employment_information>
+      <contact_information>
+        <email>john.doe@example.com</email>
+        <phone_number>123-456-7890</phone_number>
+      </contact_information>
+    </employee>
+    <employee id="2">
+      <personal_information>
+        <first_name>Jane</first_name>
+        <last_name>Smith</last_name>
+        <date_of_birth>1985-02-02</date_of_birth>
+        <gender>Female</gender>
+      </personal_information>
+      <employment_information>
+        <position>Sales Manager</position>
+        <salary>120000</salary>
+      </employment_information>
+      <contact_information>
+        <email>jane.smith@example.com</email>
+        <phone_number>987-654-3210</phone_number>
+      </contact_information>
+    </employee>
+    <employee id="3">
+      <personal_information>
+        <first_name>Peter</first_name>
+        <last_name>Jones</last_name>
+        <date_of_birth>1990-03-03</date_of_birth>
+        <gender>Male</gender>
+      </personal_information>
+      <employment_information>
+        <position>Customer Service Representative</position>
+        <salary>60000</salary>
+      </employment_information>
+      <contact_information>
+        <email>peter.jones@example.com</email>
+        <phone_number>555-444-3333</phone_number>
+      </contact_information>
+    </employee>
+  </employees>
